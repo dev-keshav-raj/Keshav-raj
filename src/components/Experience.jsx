@@ -56,7 +56,7 @@ const Experience = () => {
                     <h4 style={{ fontSize: '1.1rem', color: 'var(--accent-tertiary)', fontWeight: 500 }}>Healbridge Private Limited</h4>
                   </div>
                   <div style={{ marginLeft: 'auto', background: 'rgba(255,255,255,0.05)', padding: '0.5rem 1rem', borderRadius: '20px', fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-                    Nov 2025 - Present
+                    Nov 2025 - May 2026
                   </div>
                 </div>
 
